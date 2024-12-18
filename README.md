@@ -8,8 +8,8 @@
 🔧&nbsp; Currently, I am focusing on studying **Microservices** architecture and improving **SEO** strategies to enhance the visibility of web applications.\
 👨‍💻&nbsp; I strive to write clean, high-quality code, always aiming for continuous improvement.\
 💬&nbsp; If you're interested in collaborating or need help with a project, feel free to reach out. I'm always open to learning and working together.\
-✉️&nbsp; You can email me at [charlie.elizarbe@email.com](mailto:charlie.elizarbe@email.com), and I’ll be happy to respond.\
-📄&nbsp; If you're looking to hire me, you can view my [CV here](https://www.charlieelizarbe.com/cv).
+✉️&nbsp; You can email me at [charlie6_@hotmail.com](mailto:charlie6_@hotmail.com), and I’ll be happy to respond.\
+📄&nbsp; If you're looking to hire me, you can view my [CV here](https://drive.google.com/file/d/1nlipD6p0JX5e5mt4A6b8UBUbrGuMA0gk/view?usp=sharing).
 
 <img alt="Coding Cat" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" align="right"/>
 
