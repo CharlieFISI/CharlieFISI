@@ -1,4 +1,4 @@
-# Hi, I'm Charlie Elizarbe - Full Stack Developer & Tech Enthusiast
+# Hi, I'm Charlie Elizarbe Camus - Full Stack Developer & Tech Enthusiast
 
 ### 👨🏻‍💻 &nbsp;About Me
 
