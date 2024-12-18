@@ -62,10 +62,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/charlieec/"><img src="https://img.shields.io/badge/-Charlie%20Elizarbe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:charlie6_@hotmail.com"><img src="https://img.shields.io/badge/-charlie.elizarbe@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/28005624/charlie"><img src="https://img.shields.io/badge/-@charliefisi-FF7A00?style=flat&logo=StackOverflow&logoColor=white"/></a>
-  <a href="https://hub.docker.com/u/charlie1104"><img src="https://img.shields.io/badge/-@charlieelizarbe-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/charlieec/"><img src="https://img.shields.io/badge/-Charlie%20Elizarbe%20Camus-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:charlie6_@hotmail.com"><img src="https://img.shields.io/badge/-charlie6_@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/28005624/charlie"><img src="https://img.shields.io/badge/-@charlie-FF7A00?style=flat&logo=StackOverflow&logoColor=white"/></a>
+  <a href="https://hub.docker.com/u/charlie1104"><img src="https://img.shields.io/badge/-@charlie1104-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 </p>
 
 -----
