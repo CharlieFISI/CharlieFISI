@@ -1,3 +1,5 @@
+# Hi, I'm Charlie Elizarbe - Full Stack Developer & Tech Enthusiast
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡&nbsp; I'm passionate about technology and constantly learning new programming languages, frameworks, and tools. In my free time, I study and practice what I learn by building projects to test and refine my knowledge.\
